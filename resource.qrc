@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/close.svg</file>
+        <file>resource/max.svg</file>
+        <file>resource/min.svg</file>
+        <file>resource/set.svg</file>
+        <file>resource/xiu.png</file>
+    </qresource>
+</RCC>
